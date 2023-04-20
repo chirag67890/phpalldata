@@ -1,0 +1,34 @@
+github.com
+server where we upload our projects and practises and assignement and assements.
+
+what is xammp ?
+    xampp is server tools or xampp server where we run our php cod.
+
+x =>cross plateform (support on all os)
+a =>apache (apache is server)
+m=>mysql (mysql is an database)
+p=>perl (proceedual besed langauge)
+p=>php : hyper text preprocesseor is an server side secrupting languge)
+
+wamp
+w=>wimdows only
+lamp
+=>linux/unix only
+
+step 1: signup is github
+
+step 2: login in github
+
+step 3: create repository on github
+
+step 4: download git softwaro
+             https://git-scm.com/download/win
+
+              open git
+step5: upload local pc data on github
+     
+	cmd1 : git init
+	cad2 : git add . 
+	cam3 : git -m '20-04-2023 data uploaded successfully'
+	cam4 : git remot add origin http://github.com/chirag67890/phplldata.git
+	cam5 : git push -u orign master 
